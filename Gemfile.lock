@@ -11,10 +11,11 @@ GEM
       em-socksify (>= 0.3)
       eventmachine (>= 1.0.3)
       http_parser.rb (>= 0.6.0)
-    em-socksify (0.3.1)
+    em-socksify (0.3.2)
       eventmachine (>= 1.0.0.beta.4)
     eventmachine (1.2.7)
-    faye (1.2.4)
+    eventmachine (1.2.7-x64-mingw32)
+    faye (1.2.5)
       cookiejar (>= 0.3.0)
       em-http-request (>= 0.3.0)
       eventmachine (>= 0.12.0)
@@ -26,10 +27,10 @@ GEM
       eventmachine (>= 0.12.0)
       websocket-driver (>= 0.5.1)
     http_parser.rb (0.6.0)
-    multi_json (1.13.1)
+    multi_json (1.14.1)
     mustermann (1.1.0)
       ruby2_keywords (~> 0.0.1)
-    public_suffix (4.0.3)
+    public_suffix (4.0.4)
     rack (2.0.8)
     rack-protection (2.0.7)
       rack
@@ -53,6 +54,7 @@ GEM
     websocket-extensions (0.1.4)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
